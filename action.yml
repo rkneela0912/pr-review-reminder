@@ -1,0 +1,15 @@
+name: 'PR Review Reminder'
+description: 'Send reminders for PRs awaiting review after configurable time periods'
+author: 'rkneela0912'
+inputs:
+  github_token:
+    required: true
+  hours_until_reminder:
+    default: '24'
+    required: false
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
+branding:
+  icon: 'clock'
+  color: 'orange'
