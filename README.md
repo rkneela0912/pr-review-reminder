@@ -165,3 +165,7 @@ permissions:
 ## 💡 ⏰ Never miss a review
 
 Make your workflow more efficient with automation!
+
+## 💡 ⏰ Never miss a review
+
+Make your workflow more efficient with automation!
