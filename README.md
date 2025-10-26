@@ -161,3 +161,7 @@ permissions:
 ## Support
 
 ⭐ Star this repo if you find it helpful!
+
+## 💡 ⏰ Never miss a review
+
+Make your workflow more efficient with automation!
